@@ -1,7 +1,9 @@
 package distance;
+
 /**
  * beginning of a class.
  */
+
 public class Physics {
   /**
    * get velocity.
